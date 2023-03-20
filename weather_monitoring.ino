@@ -19,6 +19,8 @@ void loop(){
   Serial.print("Humidity : ");//Print Humidity on serial monitor
   Serial.print(humid); // Print the humidity value on serial monitor
   Serial.print(" \n "); 
+ Serial.print(" \n "); 
+ Serial.print(" \n "); 
  
   delay(3000);
 }
